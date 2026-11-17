@@ -543,7 +543,7 @@ A curated list of custom firmware for music gear, plus software mods, tools and 
 
 ### EP-133 K.O. II
 
-- [ep-unity](https://github.com/seajaysec/ep-unity) - Cross-flash K.O. II and EP-40 firmware. Can brick the device.
+- [ep-unity](https://github.com/seajaysec/ep-unity) - Cross-flash K.O. II and EP-40 firmware.
 - [ep_133_sysex_thingy](https://github.com/garrettjwilke/ep_133_sysex_thingy) - Manage samples without the official tool.
 - [ep133-export-to-daw](https://github.com/phones24/ep133-export-to-daw) - Export projects to DAW formats and MIDI.
 - [ko2-io](https://github.com/trusch/ko2-io) - Sample I/O and a FUSE filesystem.
